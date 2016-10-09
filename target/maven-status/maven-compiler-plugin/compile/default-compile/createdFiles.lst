@@ -1,0 +1,4 @@
+com\maciej\webapp\model\User.class
+com\maciej\webapp\controller\UserController.class
+com\maciej\webapp\dao\UserDAO.class
+com\maciej\webapp\dao\UserDAOImpl.class
